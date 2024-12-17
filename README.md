@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/Vai14051/Portfolio.git
 cd portfolio-website
 Install dependencies:
 
